@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1591530c-1140-4937-8d96-1299f558f2cd" name="Changes" comment="initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ZIEyAt45CrZxxypWLziE404Z3Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/joaoa/PhpstormProjects/Modularizer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-74080bdb84d3-com.jetbrains.php.sharedIndexes-PS-233.11799.232" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1591530c-1140-4937-8d96-1299f558f2cd" name="Changes" comment="" />
+      <created>1702101446074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702101446074</updated>
+      <workItem from="1702101447587" duration="266000" />
+      <workItem from="1702101722920" duration="621000" />
+      <workItem from="1702102751064" duration="53000" />
+      <workItem from="1702102812789" duration="52000" />
+      <workItem from="1702102871913" duration="21000" />
+      <workItem from="1702102893789" duration="6533000" />
+      <workItem from="1702138916143" duration="658000" />
+      <workItem from="1702139583689" duration="664000" />
+      <workItem from="1702140411179" duration="189000" />
+      <workItem from="1702140610276" duration="60000" />
+      <workItem from="1702140680025" duration="5000" />
+      <workItem from="1702140692901" duration="12000" />
+      <workItem from="1702140713661" duration="682000" />
+    </task>
+    <task id="LOCAL-00001" summary="Feature: publish config file">
+      <option name="closed" value="true" />
+      <created>1702103966563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702103966563</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Feature: changed php compatibility">
+      <option name="closed" value="true" />
+      <created>1702104436641</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702104436641</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix: Service provider typo">
+      <option name="closed" value="true" />
+      <created>1702104742876</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702104742876</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix: Service provider typo">
+      <option name="closed" value="true" />
+      <created>1702104953271</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702104953271</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix: config usage">
+      <option name="closed" value="true" />
+      <created>1702105374118</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702105374118</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Feature: check if extends BaseTemplate.php">
+      <option name="closed" value="true" />
+      <created>1702106347213</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702106347213</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix: missing this in $templates variable">
+      <option name="closed" value="true" />
+      <created>1702106642692</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702106642692</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix: change make to call from __invoke to __construct">
+      <option name="closed" value="true" />
+      <created>1702107460386</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702107460386</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix: correct use of is_subclass_of">
+      <option name="closed" value="true" />
+      <created>1702107723598</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702107723598</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Refactor: moved package logic out of command class">
+      <option name="closed" value="true" />
+      <created>1702111070165</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702111070165</updated>
+    </task>
+    <task id="LOCAL-00011" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1702139190682</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702139190682</updated>
+    </task>
+    <task id="LOCAL-00012" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1702139642003</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702139642003</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Feature: publish config file" />
+    <MESSAGE value="Feature: changed php compatibility" />
+    <MESSAGE value="Fix: Service provider typo" />
+    <MESSAGE value="Fix: config usage" />
+    <MESSAGE value="Feature: check if extends BaseTemplate.php" />
+    <MESSAGE value="Fix: missing this in $templates variable" />
+    <MESSAGE value="Fix: change make to call from __invoke to __construct" />
+    <MESSAGE value="Fix: correct use of is_subclass_of" />
+    <MESSAGE value="Refactor: moved package logic out of command class" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+{
+  "name": "vnsmk/modularizer",
+  "description": "Module Generator for laravel",
+  "keywords": [
+    "laravel"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "vnsmk",
+      "email": "vnsmoke7@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.0||^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Vnsmk\\Modularizer\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Vnsmk\\Modularizer\\ModularizerServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
